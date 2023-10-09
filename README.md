@@ -2,11 +2,7 @@
 
 Calculate the stoichiometric composition of coding sequences (CDS), RNAs, and proteins from FASTA files.
 
-## Introduction
-
 `dnatom` is a tool designed to compute the stoichiometric composition of CDSs based on an input FASTA file. Understanding the stoichiometry of biological molecules provides insights into the metabolic demands of organisms and can be relevant in the study of CDS evolution.
-
-## Concept
 
 `dnatom` employs the stoichiometric approach, calculating the number of Carbon (C), Hydrogen (H), Oxygen (O), and Nitrogen (N) atoms for each nucleotide base in the DNA sequences. This approach is rooted in understanding the atomic composition of each base:
 
