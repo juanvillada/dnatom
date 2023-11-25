@@ -27,7 +27,7 @@ The executable will be in the target/release directory.
 
 ## Usage
 
-Run the program with:
+Run this program with:
 
 ```bash
 cargo run -- path_to_your_CDS_fasta_file.fasta
